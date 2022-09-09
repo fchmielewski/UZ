@@ -11,6 +11,7 @@
 		4DA1FCD328CB5C0200C17814 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DA1FCD228CB5C0200C17814 /* ContentView.swift */; };
 		4DA1FCD528CB5C0300C17814 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DA1FCD428CB5C0300C17814 /* Assets.xcassets */; };
 		4DA1FCD828CB5C0300C17814 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DA1FCD728CB5C0300C17814 /* Preview Assets.xcassets */; };
+		4DA1FCDF28CB5C2400C17814 /* HowToGetThereView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DA1FCDE28CB5C2400C17814 /* HowToGetThereView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		4DA1FCD228CB5C0200C17814 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4DA1FCD428CB5C0300C17814 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4DA1FCD728CB5C0300C17814 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4DA1FCDE28CB5C2400C17814 /* HowToGetThereView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToGetThereView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				4DA1FCD028CB5C0200C17814 /* UZApp.swift */,
 				4DA1FCD228CB5C0200C17814 /* ContentView.swift */,
+				4DA1FCDE28CB5C2400C17814 /* HowToGetThereView.swift */,
 				4DA1FCD428CB5C0300C17814 /* Assets.xcassets */,
 				4DA1FCD628CB5C0300C17814 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4DA1FCDF28CB5C2400C17814 /* HowToGetThereView.swift in Sources */,
 				4DA1FCD328CB5C0200C17814 /* ContentView.swift in Sources */,
 				4DA1FCD128CB5C0200C17814 /* UZApp.swift in Sources */,
 			);
